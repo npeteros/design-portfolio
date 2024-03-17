@@ -26,7 +26,7 @@ export default function Prototyping() {
                     }
                 }}
             >
-                <img src="/lowfi_1.png" alt="BrainWriting Preview" />
+                <img src="/lowfi_2.png" alt="BrainWriting Preview" />
                 With our <span className="font-bold">low-fidelity prototype</span>, we noticed that although this isn&apos;t complete, It still lacked a few features that we should&apos;ve thought of such as the location to the nearest hospital so that a person would be able to choose should he/she can choose from that list of doctors and if ever if he/she is in a dire situation that they need to go to a hospital, they would easily find one.
             </AccordionTab>
             <AccordionTab
@@ -46,7 +46,7 @@ export default function Prototyping() {
                     }
                 }}
             >
-                <img src="/hifi_1.png" alt="BrainWriting Preview" />
+                <img src="/hifi_2.png" alt="BrainWriting Preview" />
                 With our <span className="font-bold">high-fidelity prototype</span>, we are still lacking in the reviews of other people therefore we are going on a basis of what we think would have a user-friendly atmosphere.
             </AccordionTab>
         </Accordion>

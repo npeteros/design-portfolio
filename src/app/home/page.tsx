@@ -9,13 +9,12 @@ export default function Home() {
             <div className="block h-screen md:hidden">
                 <div className="flex flex-col w-full">
                     <div className="m-6 md:m-0">
-                        <div className="flex flex-col gap-8 font-serif ">
+                        <div className="flex flex-col gap-8 font-serif pb-16">
                             <div className="overflow-clip"><HomeIllus /></div>
                             <span className="text-md font-bold text-center md:text-justify md:text-4xl">PROMOTING JUSTICE AND WELL-BEING THROUGH TECHNOLOGY</span>
                             <span className="text-sm text-justify leading-loose md:text-xl">Explore innovative solutions that bridge the gap between technology and positive social impact, focusing on empowering individuals and fostering a more just and healthy society. Join us on a journey towards a future where technology becomes a force for justice, equality, and overall well-being.</span>
                             <div className="hidden md:border-b" />
                         </div>
-                        {/* <NewsHeadlines /> */}
                     </div>
                 </div>
                 <ResponsiveSidebar />

@@ -10,14 +10,14 @@ export default function ResponsiveSidebar() {
 
     return (
         <div className="fixed bottom-0 w-screen">
-            <div className="w-full bg-[#202B3B] py-3">
+            <div className="w-full bg-[#0B131E] py-1">
                 <div className="w-full flex justify-center gap-12">
                     <Link
                         href='/home'
                         className={clsx(
                             "p-3",
                             {
-                                "bg-[#20207F] rounded-full": pathname === '/home'
+                                "bg-[#202B3B] rounded-full": pathname === '/home'
                             }
                         )}
                     >
@@ -32,7 +32,7 @@ export default function ResponsiveSidebar() {
                         className={clsx(
                             "p-3",
                             {
-                                "bg-[#20207F] rounded-full": pathname === '/about'
+                                "bg-[#202B3B] rounded-full": pathname === '/about'
                             }
                         )}
                     >
@@ -47,7 +47,7 @@ export default function ResponsiveSidebar() {
                         className={clsx(
                             "p-3",
                             {
-                                "bg-[#20207F] rounded-full": pathname.includes('/studies')
+                                "bg-[#202B3B] rounded-full": pathname.includes('/studies')
                             }
                         )}
                     >
@@ -62,7 +62,7 @@ export default function ResponsiveSidebar() {
                         className={clsx(
                             "p-3",
                             {
-                                "bg-[#20207F] rounded-full": pathname === '/members'
+                                "bg-[#202B3B] rounded-full": pathname === '/members'
                             }
                         )}
                     >

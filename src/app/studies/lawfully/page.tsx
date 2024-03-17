@@ -1,9 +1,9 @@
-import CaseStudy from "@/components/Tabs_SDG1/CaseStudy";
+import CaseStudy from "@/components/Tabs_SDG2/CaseStudy";
 import ResponsiveSidebar from "@/components/ResponsiveSidebar";
 import Sidebar from "@/components/Sidebar";
 
 
-export default function Clinically() {
+export default function Lawfully() {
 
     return (
         <div className="h-screen bg-[#0B131E] overflow-y-scroll">
@@ -12,8 +12,8 @@ export default function Clinically() {
                     <div className="m-6 md:m-0">
                         <div className="flex flex-col gap-8 font-serif ">
                             <img src="/clinically.png" alt="" />
-                            <span className="text-md font-bold text-center md:text-justify md:text-4xl">CLINICALLY</span>
-                            <span className="text-sm text-justify leading-loose md:text-xl">Clinically provides exceptional healthcare services and ensuring a seamless experience for our patients. The platform leverages technology to enhance healthcare accessibility, focusing on remote care solutions to improve the overall health and wellness of individuals.</span>
+                            <span className="text-md font-bold text-center md:text-justify md:text-4xl">LAWFULLY</span>
+                            <span className="text-sm text-justify leading-loose md:text-xl">Lawfully offers accessible legal assistance, connecting users with resources, educational materials, and professionals to navigate legal challenges confidently. With its intuitive interface and commitment to inclusivity, the app aims to democratize access to justice and empower individuals to advocate for their legal rights effectively.</span>
                         </div>
                     </div>
                     <div className="m-6 md:m-0 overflow-y-scroll pb-12">
@@ -30,11 +30,11 @@ export default function Clinically() {
                     <div className="flex flex-col gap-6">
                         <div className="w-full flex gap-12">
                             <div className="flex flex-col gap-8 font-serif mt-8 w-2/3">
-                                <span className="text-3xl font-bold text-justify">CLINICALLY</span>
-                                <span className="text-lg text-justify leading-loose">Clinically provides exceptional healthcare services and ensuring a seamless experience for our patients. The platform leverages technology to enhance healthcare accessibility, focusing on remote care solutions to improve the overall health and wellness of individuals.</span>
+                                <span className="text-3xl font-bold text-justify">LAWFULLY</span>
+                                <span className="text-lg text-justify leading-loose">Lawfully offers accessible legal assistance, connecting users with resources, educational materials, and professionals to navigate legal challenges confidently. With its intuitive interface and commitment to inclusivity, the app aims to democratize access to justice and empower individuals to advocate for their legal rights effectively.</span>
                             </div>
                             <div className="w-1/3 h-full border rounded-2xl p-6">
-                                <img src="/clinically.png" alt="" />
+                                <img src="/lawfully.png" alt="" />
                             </div>
                         </div>
                         <CaseStudy />

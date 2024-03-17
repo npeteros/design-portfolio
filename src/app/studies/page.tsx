@@ -77,7 +77,7 @@ export default function Home() {
                                         <span className="italic">Click to see more</span>
                                     </div>
                                 </Link>
-                                {/* <Link
+                                <Link
                                     href='/studies/lawfully'
                                     className="h-full border border-[#00548B] flex flex-col justify-between hover:bg-[#00548B] hover:border-white hover:border-2 rounded-2xl font-serif"
                                 >
@@ -88,18 +88,7 @@ export default function Home() {
                                         </div>
                                         <span className="italic">Click to see more</span>
                                     </div>
-                                </Link> */}
-                                <div
-                                    className="h-full border border-[#00548B] flex flex-col justify-between rounded-2xl font-serif hover:bg-[#00548B] hover:border-white hover:border-2"
-                                >
-                                    <div className="m-4 h-full flex flex-col justify-between gap-2">
-                                        <div className="flex flex-col gap-2">
-                                            <span className="text-2xl font-bold">Lawfully</span>
-                                            <span className="text-lg">Explore a wealth of legal knowledge, navigate complexities with ease, and discover a community committed to your legal well-being.</span>
-                                        </div>
-                                        <span className="italic">Click to see more</span>
-                                    </div>
-                                </div>
+                                </Link>
                             </div>
                         </div>
                     </div>

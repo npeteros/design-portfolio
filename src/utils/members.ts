@@ -21,7 +21,7 @@ export const membersProfile: Profile[] = [
         img: '/kenneth.jpg',
         role: 'Techfully Projects Manager',
         fb: 'https://facebook.com/profile.php?id=100013013707070',
-        ig: 'https://www.instagram.com/nealpeteros',
+        ig: 'https://www.instagram.com/yuuki.kjc',
         github: ''
     },
     {
