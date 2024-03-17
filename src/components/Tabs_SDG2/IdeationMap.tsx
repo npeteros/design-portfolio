@@ -45,7 +45,7 @@ export default function IdeationMap() {
                     }
                 }}
             >
-                Inspired by the challenges faced by our elderly ones who may struggle with technology, we're driven by a profound desire to create a more inclusive world. Through our platform, Lawfully, we aim to extend a helping hand to those who may lack technical proficiency, ensuring that everyone can access legal services effortlessly. By prioritizing user-friendly design and intuitive features, we're not only catering to the needs of the tech-savvy but also providing invaluable support to the older generation, fostering inclusivity and empowerment in an increasingly digital society.
+                Inspired by the challenges faced by our elderly ones who may struggle with technology, we&apos;re driven by a profound desire to create a more inclusive world. Through our platform, Lawfully, we aim to extend a helping hand to those who may lack technical proficiency, ensuring that everyone can access legal services effortlessly. By prioritizing user-friendly design and intuitive features, we&apos;re not only catering to the needs of the tech-savvy but also providing invaluable support to the older generation, fostering inclusivity and empowerment in an increasingly digital society.
             </AccordionTab>
             <AccordionTab
                 header="Ideation: BrainWriting"
