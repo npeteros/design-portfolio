@@ -29,7 +29,7 @@ export const membersProfile: Profile[] = [
         img: '/vlad.jpg',
         role: 'SDG 3 (Clinically) Specialist',
         fb: 'https://facebook.com/vladymir.noel',
-        ig: 'https://www.instagram.com/nealpeteros',
+        ig: '',
         github: ''
     }
 ]

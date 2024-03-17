@@ -48,13 +48,13 @@ export default function CaseStudy() {
                 activeIndex={activeIndex}
                 pt={{
                     menu: {
-                        className: 'bg-neutral-700 rounded-md flex flex-col md:flex-row'
+                        className: 'bg-[#202B3B] rounded-md flex flex-col md:flex-row'
                     },
                     icon: {
                         className: 'mx-2'
                     },
                     menuitem: {
-                        className: 'hover:bg-neutral-600 hover:rounded-md'
+                        className: 'hover:bg-[#202B4F] hover:rounded-md'
                     },
                     action: {
                         className: 'py-4 px-2'

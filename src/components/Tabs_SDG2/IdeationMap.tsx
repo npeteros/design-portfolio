@@ -13,13 +13,13 @@ export default function IdeationMap() {
                 header="Problems Addressed"
                 pt={{
                     header: {
-                        className: "bg-neutral-600 py-4 px-2 rounded-tr-md rounded-tl-md"
+                        className: "bg-[#202B3B] py-4 px-2 rounded-tr-md rounded-tl-md"
                     },
                     headerAction: {
                         className: "mx-4 font-bold gap-2 font-serif"
                     },
                     toggleableContent: {
-                        className: 'bg-neutral-800 rounded-br-md rounded-bl-md py-2'
+                        className: 'bg-neutral-900 rounded-br-md rounded-bl-md py-2'
                     },
                     content: {
                         className: 'mx-6 font-serif indent-8 leading-loose'
@@ -32,13 +32,13 @@ export default function IdeationMap() {
                 header="Background"
                 pt={{
                     header: {
-                        className: "bg-neutral-600 py-4 px-2 rounded-tr-md rounded-tl-md"
+                        className: "bg-[#202B3B] py-4 px-2 rounded-tr-md rounded-tl-md"
                     },
                     headerAction: {
                         className: "mx-4 font-bold gap-2 font-serif"
                     },
                     toggleableContent: {
-                        className: 'bg-neutral-800 rounded-br-md rounded-bl-md py-2'
+                        className: 'bg-neutral-900 rounded-br-md rounded-bl-md py-2'
                     },
                     content: {
                         className: 'mx-6 font-serif indent-8 leading-loose'
@@ -51,13 +51,13 @@ export default function IdeationMap() {
                 header="Ideation: BrainWriting"
                 pt={{
                     header: {
-                        className: "bg-neutral-600 py-4 px-2 rounded-tr-md rounded-tl-md"
+                        className: "bg-[#202B3B] py-4 px-2 rounded-tr-md rounded-tl-md"
                     },
                     headerAction: {
                         className: "mx-4 font-bold gap-2 font-serif"
                     },
                     toggleableContent: {
-                        className: 'bg-neutral-800 rounded-br-md rounded-bl-md py-2'
+                        className: 'bg-neutral-900 rounded-br-md rounded-bl-md py-2'
                     },
                     content: {
                         className: 'mx-6 font-serif indent-8'
@@ -71,13 +71,13 @@ export default function IdeationMap() {
                 header="Ideation: Fishbone"
                 pt={{
                     header: {
-                        className: "bg-neutral-600 py-4 px-2 rounded-tr-md rounded-tl-md"
+                        className: "bg-[#202B3B] py-4 px-2 rounded-tr-md rounded-tl-md"
                     },
                     headerAction: {
                         className: "mx-4 font-bold gap-2 font-serif"
                     },
                     toggleableContent: {
-                        className: 'bg-neutral-800 rounded-br-md rounded-bl-md py-2'
+                        className: 'bg-neutral-900 rounded-br-md rounded-bl-md py-2'
                     },
                     content: {
                         className: 'mx-6 font-serif indent-8'

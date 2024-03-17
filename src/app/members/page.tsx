@@ -8,11 +8,8 @@ export default function Members() {
         <div className="h-screen bg-[#0B131E]">
             <div className="block h-screen md:hidden">
                 <div className="flex flex-col w-full">
-                    <div className="m-6 md:m-0">
-                        <div className="flex flex-col gap-4 font-serif ">
-                            <span className="text-2xl font-bold text-center md:text-justify md:text-4xl">MEET THE MEMBERS</span>
-                            <div className="hidden md:border-b" />
-                        </div>
+                    <div className="flex flex-col gap-4 font-serif mt-6">
+                        <span className="text-2xl font-bold text-center md:text-justify md:text-4xl">MEET THE MEMBERS</span>
                         <MembersProfile />
                     </div>
                 </div>

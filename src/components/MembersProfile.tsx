@@ -5,7 +5,7 @@ import 'primeicons/primeicons.css';
 
 export default function MembersProfile() {
     return (
-        <div className="w-full grid md:grid-cols-3 gap-12 my-12 pb-12 md:my-0 md:pb-0">
+        <div className="w-full grid md:grid-cols-3 gap-12 pb-12 md:my-0 md:pb-0">
             {
                 membersProfile.map(mem => (
                     <Card
@@ -17,7 +17,7 @@ export default function MembersProfile() {
                         }
                         pt={{
                             root: {
-                                className: 'bg-[#202B3B] w-full rounded-2xl py-4'
+                                className: 'w-full rounded-2xl py-4'
                             },
                             title: {
                                 className: 'text-xl font-bold font-serif text-center'
