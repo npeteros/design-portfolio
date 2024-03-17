@@ -46,8 +46,9 @@ export default function Results() {
                     }
                 }}
             >
-                <p>Click <Link href='https://miro.com/app/board/uXjVNrFIIXU=/' className="text-blue-500 underline hover:text-blue-700">here</Link> to view our Figma for the Overall Layout of our Website.</p>
-                <p>Click <Link href='https://www.figma.com/file/PCRRGJzfynEoWanosOOo5p/Clinically?type=design&node-id=0-1&mode=design&t=9YHT6SCyz1r7YFa9-0' className="text-blue-500 underline hover:text-blue-700">here</Link> to view our Miro for the Overall Layout of the SDG.</p>
+                <p>Click <Link href='https://miro.com/app/board/uXjVNrFIIXU=/' target="_blank" className="text-blue-500 underline hover:text-blue-700">here</Link> to view our Figma for the Overall Layout of our Website.</p>
+                <p>Click <Link href='https://www.figma.com/file/PCRRGJzfynEoWanosOOo5p/Clinically?type=design&node-id=0-1&mode=design&t=9YHT6SCyz1r7YFa9-0' target="_blank" className="text-blue-500 underline hover:text-blue-700">here</Link> to view our Miro for the Overall Layout of the SDG.</p>
+                <p>Click <Link href='https://docs.google.com/document/d/1NSaGtqri0DR2lvSLwtoEkZ_UceOd-MRpG7Yc9J_28Og/edit?usp=sharing' target="_blank" className="text-blue-500 underline hover:text-blue-700">here</Link> to view the documentation for this case study.</p>
             </AccordionTab>
         </Accordion>
     )
