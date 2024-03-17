@@ -15,7 +15,7 @@ export default function Home() {
                             <span className="text-sm text-justify leading-loose md:text-xl">Explore innovative solutions that bridge the gap between technology and positive social impact, focusing on empowering individuals and fostering a more just and healthy society. Join us on a journey towards a future where technology becomes a force for justice, equality, and overall well-being.</span>
                             <div className="hidden md:border-b" />
                         </div>
-                        <NewsHeadlines />
+                        {/* <NewsHeadlines /> */}
                     </div>
                 </div>
                 <ResponsiveSidebar />
@@ -34,7 +34,7 @@ export default function Home() {
                                 <HomeIllus />
                             </div>
                         </div>
-                        <NewsHeadlines />
+                        {/* <NewsHeadlines /> */}
                     </div>
                 </div>
 
