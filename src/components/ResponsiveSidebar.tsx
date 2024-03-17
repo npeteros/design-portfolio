@@ -6,10 +6,7 @@ import { usePathname } from "next/navigation";
 
 export default function ResponsiveSidebar() {
 
-    const pathname = usePathname();
-
-    console.log(pathname);
-    
+    const pathname = usePathname();    
 
     return (
         <div className="fixed bottom-0 w-screen">
