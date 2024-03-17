@@ -32,7 +32,7 @@ export default function Home() {
                                     </div>
                                 </Link>
                                 <Link
-                                    href='/studies/clinically'
+                                    href='/studies/lawfully'
                                     className="md:w-2/3 border-2 rounded-3xl border border-[#00548B] h-36"
                                 >
                                     <div className="m-4 h-4/5">

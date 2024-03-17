@@ -11,7 +11,7 @@ export default function Lawfully() {
                 <div className="flex flex-col w-full">
                     <div className="m-6 md:m-0">
                         <div className="flex flex-col gap-8 font-serif ">
-                            <img src="/clinically.png" alt="" />
+                            <img src="/lawfully.png" alt="" />
                             <span className="text-md font-bold text-center md:text-justify md:text-4xl">LAWFULLY</span>
                             <span className="text-sm text-justify leading-loose md:text-xl">Lawfully offers accessible legal assistance, connecting users with resources, educational materials, and professionals to navigate legal challenges confidently. With its intuitive interface and commitment to inclusivity, the app aims to democratize access to justice and empower individuals to advocate for their legal rights effectively.</span>
                         </div>
